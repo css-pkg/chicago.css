@@ -1,0 +1,11 @@
+{
+  "name": "chicago.css",
+  "version": "1.0.0",
+  "description": "PUBLIC DOMAIN (statement from original designer via email 2014/01/30)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
