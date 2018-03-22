@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'ChigacoFLF';
+  font-style: normal;
+  font-weight: normal;
+  src: url('./ChicagoFLF.woff') format('woff'),
+       url('./ChicagoFLF.ttf') format('ttf');
+}
