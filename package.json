@@ -1,7 +1,7 @@
 {
   "name": "chicago.css",
   "description": "ChicagoFLF font as a node packaged module",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Bret Comnes",
   "bugs": {
     "url": "https://github.com/bcomnes/chicago.css/issues"
